@@ -1,9 +1,5 @@
-# Hi
-Love to build the crazy ideas that pop in my head, code for fun and work too ; ),<br>lets build some magic
-
-
 # <_
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrkelvic) 
+Love to build the crazy ideas that pop in my head, code for fun and work too ; ),<br>lets build some magic     [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrkelvic) 
 
 
 # </>
